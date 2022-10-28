@@ -293,6 +293,7 @@ span {
 
 	.quiz-form {
 		padding-right: 0.5em;
+		width: 80vw;
 	}
 
 	.result-container {
