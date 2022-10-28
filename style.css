@@ -253,7 +253,7 @@ span {
 	}
 
 	h1 {
-		font-size: 2em;
+		font-size: 1.8em;
 	}
 
 	h2 {
@@ -261,9 +261,9 @@ span {
 	}
 
 	.box-1 {
-		height: 10em;
-		width: 10em;
-		top: 8em;
+		height: 11em;
+		width: 11em;
+		top: 2em;
 		left: 1em;
 	}
 
@@ -272,18 +272,19 @@ span {
 	}
 
 	.box-3 {
-		height: 3em;
-		width: 3em;
-		top: 12em;
+		height: 3.8em;
+		width: 3.8em;
+		top: 4em;
 		left: 10em;
+		opacity: 30%;
 	}
 
 	.box-4 {
-		height: 6em;
-		width: 6em;
-		top: 15em;
+		height: 8em;
+		width: 8em;
+		top: 8em;
 		left: 2em;
-		opacity: 40%;
+		opacity: 20%;
 	}
 
 	.undertitle {
